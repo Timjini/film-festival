@@ -1,5 +1,6 @@
-# film-festival[Check the page here](https://film-festival-oc.netlify.app/)
+#[Film Festival](https://film-festival-oc.netlify.app/)
 ##### A landing page for a film festival<br/>
+[Live Page](https://film-festival-oc.netlify.app/)
 - Laning page using bootstrap 
 - JS contact form for booking tickets
 
